@@ -8,6 +8,10 @@ by Yiqun Wang, Jing Ren, Dong-Ming Yan, Jianwei Guo, Xiaopeng Zhang, Peter Wonka
 
 Please consider citing the above paper if this code/program (or part of it) benefits your project. 
 
+<p align="center">
+  <img src="outputs/demo.gif" alt="demo">
+</p>
+
 
 ## Environment
 ```bash	
