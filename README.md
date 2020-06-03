@@ -1,5 +1,9 @@
 # MGCN
 
+<p align="center">
+  <img src="outputs/demo.gif" alt="demo">
+</p>
+
 This code implements Multiscale Graph Convolutional Network (MGCN) in our SIGGRAPH 2020 paper:
 
 ["MGCN: Descriptor Learning using Multiscale GCNs"](https://arxiv.org/abs/2001.10472) 
@@ -7,10 +11,6 @@ This code implements Multiscale Graph Convolutional Network (MGCN) in our SIGGRA
 by Yiqun Wang, Jing Ren, Dong-Ming Yan, Jianwei Guo, Xiaopeng Zhang, Peter Wonka.
 
 Please consider citing the above paper if this code/program (or part of it) benefits your project. 
-
-<p align="center">
-  <img src="outputs/demo.gif" alt="demo">
-</p>
 
 
 ## Environment
