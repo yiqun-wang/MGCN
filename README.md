@@ -49,7 +49,7 @@ Please consider citing the above paper if this code/program (or part of it) bene
 	python MGCN_SCAPE.py --uc --gd -l --ln=mgcn_scape-300
 ```
 
-5. I recommend this Repository [MatlabRenderToolbox](https://github.com/llorz/MatlabRenderToolbox) to visualize the descriptors.
+5. I recommend this [Repository](https://github.com/llorz/MatlabRenderToolbox) to visualize the descriptors.
 
 ## Processed data
 
