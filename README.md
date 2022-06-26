@@ -19,10 +19,10 @@ Please consider citing the above paper if this code/program (or part of it) bene
 	source activate MGCN                # (create and activate new environment if you use Anaconda)
 	
 	conda install pytorch=1.5.0 torchvision cudatoolkit=10.1 -c pytorch     # (options: 10.X)
-	pip install torch-scatter==latest+cu101 -f https://pytorch-geometric.com/whl/torch-1.5.0.html
-	pip install torch-sparse==latest+cu101 -f https://pytorch-geometric.com/whl/torch-1.5.0.html
-	pip install torch-cluster==latest+cu101 -f https://pytorch-geometric.com/whl/torch-1.5.0.html
-	pip install torch-geometric
+	pip install torch-scatter==2.0.4+cu101 -f https://pytorch-geometric.com/whl/torch-1.5.0.html
+	pip install torch-sparse==0.6.3+cu101 -f https://pytorch-geometric.com/whl/torch-1.5.0.html
+	pip install torch-cluster==1.5.4+cu101 -f https://pytorch-geometric.com/whl/torch-1.5.0.html
+	pip install torch-geometric==1.4.3
 ```
 
 ## Usage
